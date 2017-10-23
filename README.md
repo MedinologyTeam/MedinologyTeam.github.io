@@ -26,12 +26,14 @@
 '''[Link](url) and ![Image](src)
 ```
 -->
+Medinolgy is a prototype project for integrating a basic Artificial Intelligence program implemented with a multilayered perceptron class and medical informations. Though this has lots of flows, it will contribute to popularization of computer-based medical support.
+
 
 [PC version](https://github.com/Medinology/medinology.github.com/blob/master/PC%20ver.zip)
 
 [Android version](https://github.com/Medinology/medinology.github.com/blob/master/com.kyunggi.medinology-1.apk)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
@@ -40,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
