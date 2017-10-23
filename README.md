@@ -1,5 +1,5 @@
 ## Welcome to Medinology Home Page
-
+<!--
 '''You can use the [editor on GitHub](https://github.com/Medinology/medinology.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 '''Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,6 +25,8 @@
 
 '''[Link](url) and ![Image](src)
 ```
+-->
+
 [PC version](https://github.com/Medinology/medinology.github.com/blob/master/PC%20ver.zip)
 
 [Android version](https://github.com/Medinology/medinology.github.com/blob/master/com.kyunggi.medinology-1.apk)
