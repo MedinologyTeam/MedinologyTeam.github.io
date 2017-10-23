@@ -28,17 +28,20 @@
 -->
 **Medinolgy** is a prototype project for integrating a basic Artificial Intelligence program implemented with a multilayered perceptron class and medical informations. Though this has lots of flaws, it will contribute to the popularization of computer-based basic medical supports.
 
-###Features available
+### Features available
 
--Incomplete support of TTS in PC version.
+-Slightly incomplete support of TTS in PC version.
+
 -**Full support** of TTS in Android version.
+
+-English **not supported** yet.
 
 Downloadable executables are available in link below.
 
 [PC version](https://github.com/Medinology/medinology.github.com/blob/master/PC%20ver.zip) : UI developed with VB, 
 
 [Android version](https://github.com/Medinology/medinology.github.com/blob/master/com.kyunggi.medinology-1.apk)
-
+ㅍ
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
