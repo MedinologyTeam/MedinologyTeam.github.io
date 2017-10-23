@@ -49,7 +49,7 @@ PC version : Unzip the file and execute medinology.exe.
 
 ### Developed by:
 
-<sup>Team</sup>Medinology in Kyunggi High School.
+<sup>Team</sup>Medinology of Kyunggi High School.
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
