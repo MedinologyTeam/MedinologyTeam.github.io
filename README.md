@@ -1,4 +1,5 @@
 ## Welcome to Medinology Home Page
+
 <!--
 '''You can use the [editor on GitHub](https://github.com/Medinology/medinology.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,10 +39,13 @@
 
 Downloadable executables are available in link below.
 
-[PC version](https://github.com/Medinology/medinology.github.com/blob/master/PC%20ver.zip) : UI developed with VB, 
+[PC version](https://github.com/Medinology/medinology.github.com/blob/master/PC%20ver.zip)
 
 [Android version](https://github.com/Medinology/medinology.github.com/blob/master/com.kyunggi.medinology-1.apk)
-ㅍ
+
+### Install Instruction
+
+PC version : Unzip the file and execute medinology.exe.
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
