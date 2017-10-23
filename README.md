@@ -47,6 +47,10 @@ Downloadable executables are available in link below.
 
 PC version : Unzip the file and execute medinology.exe.
 
+### Developed by:
+
+<sup>Team</sup>Medinology in Kyunggi High School.
+
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
