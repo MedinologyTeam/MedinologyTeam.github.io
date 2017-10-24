@@ -41,7 +41,7 @@ Downloadable executables are available in link below.
 
 [PC version](https://github.com/Medinology/medinology.github.com/blob/master/PC%20ver.zip)
 
-[Android version](https://github.com/Medinology/medinology.github.com/blob/master/com.kyunggi.medinology-1.apk)
+[Android version](https://github.com/Medinology/medinology.github.io/releases/download/medinology/Medinology2.apk)
 
 ### Install Instruction
 
