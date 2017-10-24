@@ -39,7 +39,7 @@
 
 Downloadable executables are available in link below.
 
-[PC version](https://github.com/Medinology/medinology.github.io/releases/download/medinology/PC.ver.zip)
+[PC version](https://github.com/Medinology/medinology.github.io/releases/download/medinology/PC.version.zip)
 
 [Android version](https://github.com/Medinology/medinology.github.io/releases/download/medinology/Medinology2.apk)
 
