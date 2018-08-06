@@ -53,7 +53,7 @@ This project is **not a perfect** project. You must be aware of the possibilitie
 
 ### Developed by:
 
-<sup>Team</sup>Medinology of Kyunggi High School.
+<sup>Team2017</sup>Medinology of Kyunggi High School.
 
 
 
