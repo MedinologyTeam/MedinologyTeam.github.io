@@ -1,0 +1,112 @@
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\bin\Debug\Kyunggi_Research.exe.config
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\bin\Debug\Kyunggi_Research.exe
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\bin\Debug\Kyunggi_Research.pdb
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\bin\Debug\Kyunggi_Research.xml
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.Form_Loading.resources
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.Resources.resources
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.exe
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.xml
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.pdb
+c:\users\hyunbin\documents\visual studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.Form_Input.resources
+C:\Users\Hyunbin\Documents\Visual Studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.Form_Output.resources
+C:\Users\Hyunbin\Documents\Visual Studio 2017\Projects\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.Form_Process.resources
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Family\Desktop\170803\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.pdb
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Hyunbin\Desktop\Naver Mail\Kyunggi_Research\Kyunggi_Research\obj\Debug\Medinology.pdb
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.pdb
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Family\Desktop\Kyunggi_Research_170810\Kyunggi_Research\obj\Debug\Medinology.pdb
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Family\Desktop\Kyunggi_Research_170814\Kyunggi_Research\obj\Debug\Medinology.pdb
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Family\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.pdb
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.exe.config
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.exe
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.pdb
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\bin\Debug\Medinology.xml
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbprojResolveAssemblyReference.cache
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Input.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Loading.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Output.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Form_Process.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.Resources.resources
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Kyunggi_Research.vbproj.GenerateResource.Cache
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.exe
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.xml
+C:\Users\Hyunbin\Desktop\Kyunggi_Research_170815\Kyunggi_Research\obj\Debug\Medinology.pdb
