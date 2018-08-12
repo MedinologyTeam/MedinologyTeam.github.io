@@ -37,6 +37,13 @@
 
 -English **not supported** yet.
 
+[PC version(Visual basic) repository(Medinology)](https://github.com/Medinology/medinology.github.io/tree/master/Visual%20Basic%20project)
+
+[Android version Repository(KYHSGeekCode)](https://github.com/KYHSGeekCode/Medinology-android)
+
+[Database]()
+
+
 Downloadable executables are available in link below.
 
 [PC version](https://github.com/Medinology/medinology.github.io/releases/download/medinology/PC.version.zip)
@@ -54,7 +61,6 @@ This project is **not a perfect** project. You must be aware of the possibilitie
 ### Developed by:
 
 <sup>Team2017</sup>Medinology of Kyunggi High School.
-
 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
